@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Esp8266New",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		}
+	}
+}
